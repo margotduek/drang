@@ -164,6 +164,9 @@ a:focus {
 
 }
 
+.dark_pictures{
+  filter: brightness(50%);
+}
 
 /*----------------------------------
   Selection
