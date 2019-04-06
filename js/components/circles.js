@@ -14,7 +14,7 @@ var Circle = function() {
       text: function(value) {
         return value + '%';
       },
-      colors: ['rgba(16,122,118,.2)', '#68C083'],
+      colors: ['rgba(16,122,118,.2)', '	#E36E2A'],
       duration: 1500
     });
 
@@ -28,7 +28,7 @@ var Circle = function() {
       text: function(value) {
         return value + '%';
       },
-      colors: ['rgba(16,122,118,.2)', '#68C083'],
+      colors: ['rgba(16,122,118,.2)', '	#E36E2A'],
       duration: 1500
     });
 
@@ -42,7 +42,7 @@ var Circle = function() {
       text: function(value) {
         return value + '%';
       },
-      colors: ['rgba(16,122,118,.2)', '#68C083'],
+      colors: ['rgba(16,122,118,.2)', '	#E36E2A'],
       duration: 1500
     });
 
@@ -56,7 +56,7 @@ var Circle = function() {
       text: function(value) {
         return value + '%';
       },
-      colors: ['rgba(16,122,118,.2)', '#68C083'],
+      colors: ['rgba(16,122,118,.2)', '	#E36E2A'],
       duration: 1500
     });
   }
