@@ -168,6 +168,14 @@ a:focus {
   filter: brightness(50%);
 }
 
+.img_width{
+  width: 100% !important;
+}
+
+.img_width_7{
+  width: 70% !important;
+}
+
 /*----------------------------------
   Selection
 ------------------------------------*/
