@@ -155,6 +155,13 @@ a:focus {
 /*----------------------------------
   My styles
 ------------------------------------*/
+div.bbbb {
+  position: absolute;
+  right: 0;
+  width: 300px;
+  height: 120px;
+}
+
 .responsive_image_by_me{
   width: 100%;
   height: auto;
